@@ -1,0 +1,84 @@
+
+I am glad to talk with you, Ranjit. First, let me introduce myself. 
+I am Ke Wu. I received my master degree in ECE program at Carnegie Mellon University with GPA 4.0. 
+I am interested in building infrastructure and large-scale robust distributed system. I have taken many courses that are related to computer system, such as operating 
+systems, distributed systems, storage systems, computer network and cloud computing. In these courses, I also did many projects. I have built a unix-like kernel, 
+a remote file system with caching, a hybrid ssd/cloud file system, an HTTP web server, a peer to peer file transfer system and so on. 
+
+I will start my first job at Google 
+on July, 18th. And today I want to ask some questions about your team to see if it is the right team for me. 
+
+
+Could you please introduce what is your team's job?
+
+
+1. What's the product that your team make or what are the problems that your team solve?
+
+
+2. How does the team make an impact at Google?
+
+
+3. What is the team's current goal?
+
+
+4. If I join your team, what would be my main responsibilities?
+
+
+5. Can you provide an example of a project that I will work on if I join your team?
+
+
+6. Could you please tell me about the platform or programming languages that will be used in the team?
+
+
+7. What skills that I will learn if I join your team?
+
+
+8. How long do you expect it will take me to become a fully productive member of the team?
+
+
+9. Will you be my direct manager?
+
+
+10. How big is the team? 
+
+
+11. How about the team diversity? 
+
+
+12. Is everyone work in the same location or do you work with people from other offices? 
+
+
+13. How does the team communicate and collaborate? 
+    Will I be working mostly individually or on multi-person/multi-team projects?
+
+
+14. Is the work limited by any timeline restrictions like on-call work or launch cycles? 
+
+
+15. How does a typical day of work in the team look like? 
+
+
+16. What is your opinion of 20% projects?
+
+
+17. That's all questions that I want to ask, thank you! 
+And could you please give me you email address so I can send you email if I have any further questions?
+
+
+
+-- your interests?
+I am interested in building large-scale robust distributed system. 
+I am also interested in building infrastructure for the top application. I think these work are more challenging than developing a top level application. 
+
+
+-- that most xxx project?
+I think it is building a unix-like kernel. In this project, we need to build a kernel from scratch. 
+I designed and implemented a Unix-like kernel with some device drivers on the x86 multicore architecture. 
+The kernel
+supports virtual memory management, preemptive multitasking and some important system calls. 
+I also desgiend and implemented a user-level thread library as well as synchronization primitives on the top of the kernel. 
+
+
+-- Where Do You See Yourself in Five Years?
+I think I will still be a software engineer and code for some exciting software system. 
+I hope to get more experience on software engineering and be able to design some software architecture on my own
