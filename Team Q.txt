@@ -1,0 +1,62 @@
+I am so glad to talk with you (guys). My name is Chengbo Gu. A master candidate at Northeastern University majoring in Bioinformatics.
+I will start my first internship at Google on May, 15th. I am a MEAN stack developer now interested in building dynamic web apps.
+Also, I am working on youtube-8m video classification benchmark.
+
+
+1. Could you please briefly introduce the work of the team?
+
+2. I knew two services released by google ads. They are adwords and adsense.
+Just want to make sure if I could tell the difference of these two correctly.
+The difference between adwords and adsense
+AdWords is a service for advertisers 
+-- people who are selling a good or service and are want to pay money to get users to the website where they offer that good or service for purchase.
+
+AdSense is a service for publishers 
+-- people who run a website and are willing to show ads on that website so that they can get a fraction of the revenue 
+from those ads and thereby make money from their site.
+
+Google AdSense is a program run by Google that allows publishers in the Google Network of content sites to serve automatic 
+text, image, video, or interactive media advertisements, that are targeted to site content and audience. 
+
+3. Question about quality score. 
+   I guess google is using quality score to determine which ads to show above searching results.
+   The ads with higher quality scores would jump over the ads with lower ones.
+   
+   And I knew the most important factor that impacts quality score is the click-through rate.
+   I would like to know some other factors that determing the quality score. 
+
+
+3. How does the team make an impact at Google? 
+
+4. What is the current goal of the team? Or what are the problems you guys are solving now?
+
+
+8. How does the team communicate and collaborate?
+   Will I be working mostly individually or collaboratively?
+
+
+9. How does a typical day of work in the team look like?
+
+5. If I could join your team, what would be my main responsibilities and what about the skills that I'll learn?
+
+7. Could you please tell me about the platform or programming languages that will be used in the team?
+
+
+
+!!!!!!!!!!!!!!!!!!!!! May I have your email address just in case that I have some further questions?
+
+
+Google hire ads quality rater 
+
+
+
+I enjoyed speaking with you today about the assistant account executive position at the Smith Agency.
+
+
+The job seems to be an excellent match for my skills and interests.
+
+The creative approach to account management that you described confirmed my desire to work with you.
+
+In addition to my enthusiasm, I will bring to the position strong writing skills, assertiveness, and the ability to encourage others to work cooperatively with the department.
+
+I appreciate the time you took to interview me. I am very interested in working for you and look forward to hearing from you regarding this position.
